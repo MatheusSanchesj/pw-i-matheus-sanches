@@ -1,0 +1,32 @@
+table, th, td {
+    border: 1px solid rgb(0, 0, 0);
+    
+}
+table {
+    width:100%;
+    padding: 10px;
+}
+
+th {
+    background-color: #060506;
+}
+
+th {
+    background-color: #060506;
+}
+
+.testePadding {
+    padding: 10px 15px 20px 25px;
+}
+.testePadding2{
+    padding: 30px;
+}
+.testeMargin {
+    margin: 10px 20px;
+}
+.testePadding3{
+    padding-top: 5px;
+    padding-right: 10px;
+    padding-bottom: 15px;
+    padding-left: 20px;
+}
